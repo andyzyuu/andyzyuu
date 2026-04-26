@@ -2,9 +2,9 @@
 
 I'm currently an undergraduate studying Electrical and Computer Engineering & AI at Carnegie Mellon University.
 
-I'm currently building [DrayBill](https://www.draybill.com), AI-powered logistics and freight data extraction software for document-heavy freight workflows.
+Currently building [DrayBill](https://www.draybill.com), AI-powered logistics and freight data extraction software for document-heavy freight workflows.
 
-Some of my technical interests include:
+# 🧑‍💻 Technical Interests:
 
 - Full-stack development
 - AI/ML systems
@@ -14,7 +14,7 @@ Some of my technical interests include:
 - Programming systems
 - Quantitative development
 
-## Coursework
+# 📚 Coursework
 
 At Carnegie Mellon, I have taken or am currently taking courses in:
 
@@ -29,7 +29,7 @@ At Carnegie Mellon, I have taken or am currently taking courses in:
 - 21-259: Calculus in 3-D
 - 21-127: Concepts of Mathematics
 
-## Projects
+# 🗂️ Projects
 
 A few things I've worked on:
 
@@ -38,7 +38,7 @@ A few things I've worked on:
 - **Putting Stroke Analysis Software** — Python/OpenCV tool for analyzing putting mechanics
 - **Multiplication Coprocessor** — SystemVerilog and assembly project for a custom ISA
 
-## Tech Stack
+# 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-333?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/TypeScript-333?style=flat&logo=typescript)
@@ -51,13 +51,11 @@ A few things I've worked on:
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-333?style=flat)
 ![C](https://img.shields.io/badge/C-333?style=flat&logo=c)
 
-## GitHub Stats
-
-![Andy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=andyzyuu&show_icons=true&theme=default&hide_border=true)
+# 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andyzyuu&layout=compact&hide_border=true)
 
-## Reach Me
+# 📞 Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/andy-yu-1841b91ab/)
 - [DrayBill](https://www.draybill.com)
