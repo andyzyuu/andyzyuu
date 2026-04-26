@@ -1,6 +1,6 @@
 # Hey 👋 I'm Andy
 
-I'm currently an undergraduate studying Electrical and Computer Engineering & AI at Carnegie Mellon University.
+I'm currently an undergraduate studying Electrical and Computer Engineering & AI at Carnegie Mellon University. Reach me at andyyu[at]andrew[dot]cmu[dot]edu
 
 Currently building [DrayBill](https://www.draybill.com), AI-powered logistics and freight data extraction software for document-heavy freight workflows.
 
